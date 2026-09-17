@@ -13,7 +13,7 @@ A living playbook for AI-assisted software development. Opinionated, practical, 
 
 ## Cadence
 
-Updated weekly, every Monday. Each update is logged in [docs/weekly-log.md](docs/weekly-log.md) with what changed and why.
+Updated weekly, every Wednesday. Each update is logged in [docs/weekly-log.md](docs/weekly-log.md) with what changed and why.
 
 ## Contributing
 
